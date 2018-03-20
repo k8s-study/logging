@@ -58,6 +58,8 @@ $ cd logging
 
 ### ELK Stack
 
+- [AWS ELK Best Practices](https://www.elastic.co/guide/en/elasticsearch/plugins/current/cloud-aws-best-practices.html)
+- [Elasticsearch: The definitive guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html)
 - [Logstash: Do you grok grok?](https://www.elastic.co/blog/do-you-grok-grok)
 
 
