@@ -55,6 +55,7 @@ $ cd logging
 ### Logging in Docker
 
 - [Kubernetes: Logging Architecture](https://kubernetes.io/docs/concepts/cluster-administration/logging/)
+- [Logmatic: Docker Logging Guide](https://logmatic.io/blog/docker-logging-guide/)
 
 ### ELK Stack
 
